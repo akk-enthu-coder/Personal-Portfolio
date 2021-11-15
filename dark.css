@@ -1,0 +1,21 @@
+
+:root{
+  --mainColor: black;
+  --secondaryColor: black;
+
+  --borderColor:grey;
+  --mainText:#fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotBorder: #FFF;
+
+  --previewBg: rgba(25, 25, 25, 0.8);
+  --previewShadow: #757b7f;
+
+  --buttonColor: #757b7f;
+
+}
+
+#textMove{
+  color: white;
+}

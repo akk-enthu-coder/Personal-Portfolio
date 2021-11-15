@@ -25,7 +25,7 @@ function setTheme(mode){
   }
 
   if(mode == "blue"){
-    document.getElementById("theme-style").href = "blue.css"
+    document.getElementById("theme-style").href = "dark.css"
   }
 
   if(mode == "green"){
